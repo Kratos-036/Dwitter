@@ -1,4 +1,5 @@
-# Basic Sample Hardhat Project
+# 🚀 Dwitter: A Decentralized Twitter with Dapp Technology 🌐
+
 
 - This is a GROUP PROJECT for Engineering SEM 7
 - MEMBERS : 
